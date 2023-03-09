@@ -1,4 +1,5 @@
 # Státnice
+- *rovnice jsou v LaTeX syntaxi ($ $) - na GitHubu jsou nepřehledný*
 - [Algoritmy a programování](Algoritmy%20a%20programování/Algoritmy%20a%20programování.md)
     - [Číselné soustavy, kódování čísel](Algoritmy%20a%20programování/Číslené%20soustavy,%20kódování%20čísel.md) 
     - [Programátorský model procesoru, instrukce, práce s procesorem](Algoritmy%20a%20programování/Programátorský%20model%20procesoru,%20instrukce,%20práce%20s%20procesorem.md)
