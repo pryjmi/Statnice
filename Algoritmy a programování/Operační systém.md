@@ -1,0 +1,1 @@
+# Operační systém, vysvětlení pojmu, typy, poskytované funkce.

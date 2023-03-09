@@ -1,0 +1,1 @@
+# Správa procesů v operačním systému, vztah programu a procesu, životní cyklus procesu.

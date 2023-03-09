@@ -1,0 +1,7 @@
+- [Konceptuální návrh relačních databází](Konceptuální%20návrh%20relačních%20databází.md)
+- [Normalizace](Normalizace.md)
+- [Relační model](Relační%20model.md)
+- [CRUD operace, dotazy](CRUD%20operace,%20dotazy.md)
+- [Spouště, uložené procedury](Spouště,%20uložené%20procedury.md)
+- [Pohledy, přístupová práce, transakce](Pohledy,%20přístupová%20práce,%20transakce.md)
+- [Indexování, optimalizace dotazů](Indexování,%20optimalizace%20dotazů.md)

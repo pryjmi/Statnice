@@ -1,0 +1,3 @@
+- [Signály a systémy, LTI](Signály%20a%20systémy,%20LTI.md)
+- [Fourierovy řady, DFT, FFT, FIR, IIR](Fourierovy%20řady,%20DFT,%20FFT,%20FIR,%20IIR.md)
+- [Vzorkování, kvantování](Vzorkování,%20kvantování.md)

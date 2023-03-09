@@ -1,0 +1,1 @@
+# Programátorské rozhraní operačního systému. Pokročilejší programátorské techniky jako zpracování zpráv, programování vláken, synchronizace procesů.

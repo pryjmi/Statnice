@@ -1,0 +1,1 @@
+# Tvorba aplikací v prostředí konzole a MS Windows. Vývojová prostředí.
