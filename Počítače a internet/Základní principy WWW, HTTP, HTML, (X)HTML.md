@@ -1,0 +1,1 @@
+přepisuju z notionu
