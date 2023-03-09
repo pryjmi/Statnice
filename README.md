@@ -1,4 +1,5 @@
 # Státnice
+<<<<<<< HEAD
 Léto 2023
 - [Algoritmy a programování](Algoritmy%20a%20programování/Algoritmy%20a%20programování.md)
     - [Číselné soustavy, kódování čísel](Algoritmy%20a%20programování/Číslené%20soustavy,%20kódování%20čísel.md) 
@@ -43,3 +44,5 @@ Léto 2023
     - [Signály a systémy, LTI](Signály%20a%20zpracování%20informace/Signály%20a%20systémy,%20LTI.md)
     - [Fourierovy řady, DFT, FFT, FIR, IIR](Signály%20a%20zpracování%20informace/Fourierovy%20řady,%20DFT,%20FFT,%20FIR,%20IIR.md)
     - [Vzorkování, kvantování](Signály%20a%20zpracování%20informace/Vzorkování,%20kvantování.md)
+=======
+>>>>>>> refs/remotes/origin/main
