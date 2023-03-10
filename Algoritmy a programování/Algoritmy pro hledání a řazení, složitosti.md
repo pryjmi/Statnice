@@ -3,7 +3,7 @@
 	- **lineární vyhledávání**
 		- prohledává seznam prvků jeden po druhém, dokud není hledaný prvek nenalezen nebo dojde k prohledání celého seznamu, lineární použiju u menších, NEseřazených seznamů
 		- obrázek
-			- ![lin_search](lin_search.png)
+			- ![lin_search](img/lin_search.png)
 		- kód
 			- 
 				```python
@@ -24,7 +24,7 @@
 	- **binární vyhledávání**
 		- prohledává seznam prvků, který je řazený, jde od středu a porovnává, jestli hledaný prvek není větší nebo menší než prvek na středové pozici, pokud menší, prohledává se levá část seznamu, jinak pravá část, takhle to jde dokud není hledaný prvek nalezen nebo pokud už není kde hledat, binární použiju u větších, seřazených seznamů
 		- obrázek
-			- ![bin_search](bin_search.png)
+			- ![bin_search](img/bin_search.png)
 		- kód
 			- 
 				```python
@@ -54,7 +54,7 @@
 	- **bubble sort**
 		- prochází se seznamem prvků a porovnávají se sousední prvky, pokud jsou prvky ve špatném pořadí, jsou prohozeny, opakuje se dokud není celý seznam seřazen
 		- obrázek
-			- ![bubble_sort](bubble_sort.png)
+			- ![bubble_sort](img/bubble_sort.png)
 		- kód
 			- 
 				```python
@@ -73,7 +73,7 @@
 	- **selection sort**
 		- prochází se seznamem prvků a vybírá se nejmenší prvek, ten se pak přesune na začátek seznamu, to se opakuje dokud není seřazeno
 		- obrázek
-			- ![selection_sort](selection_sort.png)
+			- ![selection_sort](img/selection_sort.png)
 		- kód
 			- 
 				```python
@@ -92,7 +92,7 @@
 	- **insertion sort**
 		- vybere ze seznamu neseřazený prvek a přesune ho do vhodné pozice v seřazené části seznamu
 		- obrázek
-			- ![insertion_sort](insertion_sort.png)
+			- ![insertion_sort](img/insertion_sort.png)
 		- kód
 			- 
 				```python
@@ -113,7 +113,7 @@
 	- **merge sort**
 		- využívá principu dělení a slučování → opakované rozdělení seznamu na menší části a následné sloučení těchto částí zpět do jednoho seřazeného seznamu
 		- obrázek
-			- ![merge_sort](merge_sort.png)
+			- ![merge_sort](img/merge_sort.png)
 		- kód
 			- 
 				```python
@@ -150,7 +150,7 @@
 	- **quicksort**
 		- princip dělení a slučování jako merge sort, vybere se pivot ze seznamu a rozdělí se ostatní prvky na menší a větší než pivot, opakuje se dokud není celý seznam seřazen
 		- obrázek
-			- ![quicksort](quicksort.png)
+			- ![quicksort](img/quicksort.png)
 		- kód
 			- 
 				```python
@@ -184,12 +184,12 @@
 		- **řád funkce**
 			-  řád růstu funkce f je taková “co nejjednodušší” funkce g, pro kterou platí, že f je asymptoticky ohraničená funkcí g z obou stran (až na konstantu), řád určím tak, že zanedbám aditivní členy rostoucí pomaleji nebo stejně $(7*2^N+2*2^{N-1}=2^N)$, multiplikativní konstantu  $(2N=N)$
 		- obrázek
-			- ![asymp_slozitost](asymp_slozitost.png)
+			- ![asymp_slozitost](img/asymp_slozitost.png)
 	- **amortizovaná složitost**
 		- určuje časovou složitost jako průměr v sekvenci nehorších případů, na rozdíl od průměrné nevyužívá pravděpodobnost a je zaručená, může mít lepší průběh než asymptotická (ASS)
 		- algoritmy s vysokou ASS často mění strukturu dat - promítá se do časové složitosti potom se špatný případ nestane dlouhou dobu - nastane jeho amortizace příklad dynamického pole - může nastat realokace (zvýšení složitosti) a nemusí
 		- obrázek
-			- ![amort_slozitost](amort_slozitost.png)
+			- ![amort_slozitost](img/amort_slozitost.png)
 		- kód
 			- 
 				```python
