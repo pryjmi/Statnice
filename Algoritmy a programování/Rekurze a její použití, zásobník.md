@@ -1,2 +1,21 @@
 # Rekurze a její použití. Rekurzivní a nerekurzivní realizace vybraných algoritmů. Využití zásobníku programu.
-přepisuju z notionu
+- ## Rekurze
+	- metoda programování, která se opakuje voláním sebe sama, používá se především pro řešení matematických a algoritmických problémů, kdy je nutné provést opakované výpočty na stejné nebo podobné údaje
+	- ### Pravidla
+		- 1.  musí být definována podmínka pro ukončení algoritmu
+		- 2.  v každém kroku rekurze musí dojít ke zjednodušení problému
+		- 3.  v algoritmu se nejprve musí ověřit, zda nenastala koncová situace, pokud ne, provede se rekurzivní krok
+	- ### Rozdělení
+		- 1.  **přímá rekurze** - funkce volá sebe sama
+		- 2.  **nepřímá rekurze** - vzájemné volání několika funkcí (A volá B, B volá C, C volá A)
+	- Rekurzi není vhodné použít, mám-li k dispozici algoritmus se stejnou složitostí, rekurzivní řešení je nestabilní (pro některé hodnoty se zauzlí), počet rekurzivních volání roste rychleji než lineárně
+- ## Rekurzivní a nerekurzivní realizace algoritmů
+	- #TODO
+- ## Využití zásobníku programu
+	- zásobník (stack) je datová struktura, která uchovává seznam prvků a poskytuje dvě základní operace: push (vložení, “vtlačení” prvku do vrcholu zásobníku) a pop (odebrání prvku “vytlačení” z vrcholu zásobníku), zásobník je implementován jako LIFO (last in, first out) → poslední prvek vložen do zásobníku bude vyjmut jako první
+	- ### zásobník se používá v algoritmech, ve kterých je nutno uchovávat informace o minulých krocích nebo procházet strom nebo graf v hloubce, např.:
+		-   v algoritmech pro hledání cesty v grafu nebo oblasti, jako je BFS nebo DFS se zásobník používá k uchování informací o návštěvě uzlů
+		-   v algoritmech pro převod infixního výrazu na postfixní nebo prefixní, se zásobník používá pro uchovávání informací o operátorech a operandech
+		-   v algoritmech pro procházení stromu, jako je preorder, inorder a postorder, se zásobník používá pro uchovávání informací o průchodu stromem
+		-   v algoritmech pro zpracování zásobníku, jako jsou řešení matematických výrazů nebo řešení hanojské věže, se zásobník používá k uchování informací o pozici a stav prvků
+	- **zásobník lze také použít pro implementaci rekurze nerekurzivním způsobem**
