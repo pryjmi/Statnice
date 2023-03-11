@@ -5,7 +5,7 @@
     - [Programátorský model procesoru, instrukce, práce s procesorem](Algoritmy%20a%20programování/Programátorský%20model%20procesoru,%20instrukce,%20práce%20s%20procesorem.md)
     - [Jazyk C](Algoritmy%20a%20programování/Jazyk%20C.md) (done)
     - [Algoritmy pro hledání a řazení, složitosti](Algoritmy%20a%20programování/Algoritmy%20pro%20hledání%20a%20řazení,%20složitosti.md) (done)
-    - [Rekurze a její použití, zásobník](Algoritmy%20a%20programování/Rekurze%20a%20její%20použití,%20zásobník.md) (doing)
+    - [Rekurze a její použití, zásobník](Algoritmy%20a%20programování/Rekurze%20a%20její%20použití,%20zásobník.md) (done)
     - [Členění programu v jazyce vyšší úrovně](Algoritmy%20a%20programování/Členění%20programu%20v%20jazyce%20vyšší%20úrovně.md)
     - [OOP](Algoritmy%20a%20programování/OOP.md) 
     - [Tvorba aplikací v konzoli, MS Windows, vývojová prostředí](Algoritmy%20a%20programování/Tvorba%20aplikací%20v%20konzoli,%20MS%20Windows,%20vývojová%20prostředí.md)
