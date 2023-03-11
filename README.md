@@ -35,7 +35,7 @@
     - [Principy vrstvené architektury počítačových sítí](Počítače%20a%20internet/Principy%20vrstvené%20architektury%20počítačových%20sítí.md)
     - [Ethernet](Počítače%20a%20internet/Ethernet.md)
     - [Protokoly IP, TCP, UDP, DNS](Počítače%20a%20internet/Protokoly%20IP,%20TCP,%20UDP,%20DNS.md)
-    - [Základní principy WWW, HTTP, HTML, (X)HTML](Počítače%20a%20internet/Základní%20principy%20WWW,%20HTTP,%20HTML,%20(X)HTML.md) (doing)
+    - [Základní principy WWW, HTTP, HTML, (X)HTML](Počítače%20a%20internet/Základní%20principy%20WWW,%20HTTP,%20HTML,%20(X)HTML.md) (done)
     - [CSS](Počítače%20a%20internet/CSS.md) (doing)
     - [Webové aplikace](Počítače%20a%20internet/Webové%20aplikace.md)
     - [PHP](Počítače%20a%20internet/PHP.md)
